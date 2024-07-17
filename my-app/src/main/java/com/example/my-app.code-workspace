@@ -1,0 +1,14 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "terminal.integrated.env.windows": {
+            "MAVEN_HOME": "C:\\Program Files\\Maven\\apache-maven-3.9.8",
+            "JAVA_HOME": "C:\\Program Files\\Java\\jdk-17.0.1",
+            "Path": "${env:Path};C:\\Program Files\\\\Maven\\apache-maven-3.9.8\\bin"
+        }
+    }
+}
